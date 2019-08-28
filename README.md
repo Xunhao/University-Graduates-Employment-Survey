@@ -1,7 +1,7 @@
 # University-Graduates-Employment-Survey
 
 ## Goal of this project 
-This project consists of simple analysis of how employment rates and average salaries have changed in the past 5 years for students graduating from Accountancy and Business courses. However, the analysis are limited to NTU, NUS, and SMU. All of the analysis has been done using Jupyter notebook
+This project consists of simple analysis of how employment rates and average salaries have changed in the past 5 years for students graduating from Accountancy and Business courses. However, the analysis are limited to NTU, NUS, and SMU. All of the analysis has been done using Jupyter notebook. Hence, you will only be able to see the analysis if you run it using Jupyter notebook.
 
 ## Dataset
 Within the dataset, you will find many other degrees on top of Accountancy and Business. For this project, I have chose to focus on only the aforementioned degrees. 
@@ -18,4 +18,4 @@ Since this project is largely about data preprocessing and data visualisation, t
 For users that are interested in the employment and salary trends of other degrees such as Engineering or Arts, the code is largely reproducible. As I have only ensure the same naming convention for Accoutancy and Business degrees, additional work needs to be done to ensure the naming of the degree of your interest is consistent as well. Once that is done, the function needs to be edited to suit your specific needs. 
 
 ## Personal note
-As you can see from my work, I am certainly still a beginner. While this project is fairly simple, it serves as a good opportunity to refine my Python skills and learning git. I hope to gradually improve my skills as time goes on and as much as possible, I will be showing my progress here on Github
+As you can see from my work, I am certainly still a beginner. While this project is fairly simple, it serves as a good opportunity to refine my Python skills and learning git. I hope to gradually improve my skills as time goes on and as much as possible, I will be showing my progress here on Github.
