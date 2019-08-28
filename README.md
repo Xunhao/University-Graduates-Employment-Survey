@@ -1,7 +1,7 @@
 # University-Graduates-Employment-Survey
 
 ## Goal of this project 
-This project consists of simple analysis of how employment rates and average salaries have changed in the past 5 years for students graduating from Accountancy and Business courses. However, the analysis are limited to NTU, NUS, and SMU.
+This project consists of simple analysis of how employment rates and average salaries have changed in the past 5 years for students graduating from Accountancy and Business courses. However, the analysis are limited to NTU, NUS, and SMU. All of the analysis has been done using Jupyter notebook
 
 ## Dataset
 Within the dataset, you will find many other degrees on top of Accountancy and Business. For this project, I have chose to focus on only the aforementioned degrees. 
